@@ -1,6 +1,6 @@
 <!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:875A7B&height=180&section=header&text=Nijat%20Mehdiyev&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Odoo%20Partner%20%7C%20Team%20Leader%20%7C%20Software%20Engineer&descSize=18&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17334D,50:25639D,100:4692DC&height=180&section=header&text=Nijat%20Mehdiyev&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Odoo%20Partner%20%7C%20Team%20Leader%20%7C%20Software%20Engineer&descSize=18&descAlignY=75" alt="header"/>
 </p>
 
 <!-- Nimex Solutions -->
@@ -38,5 +38,5 @@
 
 <!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:875A7B,100:714B67&height=110&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4692DC,50:25639D,100:17334D&height=110&section=footer" alt="footer"/>
 </p>
