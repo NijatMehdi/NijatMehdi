@@ -1,6 +1,6 @@
 <!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:875A7B&height=180&section=header&text=Nijat%20Mehdiyev&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Odoo%20%7C%20Python%20Developer&descSize=18&descAlignY=75" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:875A7B&height=180&section=header&text=Nijat%20Mehdiyev&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Odoo%20Partner%20%7C%20Team%20Leader%20%7C%20Software%20Engineer&descSize=18&descAlignY=75" alt="header"/>
 </p>
 
 <!-- Nimex Solutions -->
