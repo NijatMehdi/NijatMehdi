@@ -5,7 +5,9 @@
 
 <!-- Nimex Solutions -->
 <p align="center">
-  <img src="assets/nimex-logo.gif" alt="Nimex Solutions" width="420"/>
+  <a href="https://nimexsolutions.com">
+    <img src="assets/nimex-logo.gif" alt="Nimex Solutions" width="420"/>
+  </a>
 </p>
 
 <!-- Typing animation -->
